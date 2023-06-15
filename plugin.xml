@@ -57,7 +57,7 @@
   <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
       <string>$PHOTOLIBRARY_USAGE_DESCRIPTION</string>
   </config-file>
-
+<!--
 <header-file src="src/ios/Mltext.h" target-dir="MltextPlugin"/>
 <source-file src="src/ios/Mltext.m" target-dir="MltextPlugin"/>
 
@@ -69,7 +69,7 @@
         <pod name="MLKitTextRecognition" />
       </pods>
     </podspec>
-
+-->
 </platform>
 
 </plugin>
